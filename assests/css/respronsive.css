@@ -1,0 +1,127 @@
+@media(min-width: 0px) and (max-width: 575px){
+	.header_contant{
+		padding-top: 20px;
+	}
+	.header_contant p {
+    font-size: 16px;
+   text-align: justify;
+}
+.header_contant .btn {
+    --bs-btn-padding-x: 1.8rem;
+    --bs-btn-padding-y: .8rem;
+    --bs-btn-font-weight: 500;
+}
+.self_content h3{
+	margin-top: 10px;
+}
+.self_content h1{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 48px;
+    word-spacing: 3px;
+ }
+ .self_content .btn {
+    --bs-btn-padding-x: 1.1rem;
+    --bs-btn-padding-y: .5rem;
+    --bs-btn-font-weight: 700;
+   
+}
+.resume_contant h1{
+    color: #3f3a64;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 48px;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.resume_contant .btn {
+    --bs-btn-padding-x: 1.1rem;
+    --bs-btn-padding-y: .5rem;
+    --bs-btn-font-weight: 700;
+   
+}
+.btn{
+	margin-top: 20px;
+}
+
+.awesome_contant h1{
+    color: #3f3a64;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.awesome_contant p{
+    text-align: justify;
+    }
+iframe{
+	height: 200px;
+}
+.touch_section_contant h1 {
+    color: #3f3a64;
+    font-size: 25px;
+    line-height: 38px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.touch_section_contant .btn {
+    --bs-btn-padding-x: 1.8rem;
+    --bs-btn-padding-y: .8rem;
+    --bs-btn-font-weight: 700;
+}
+footer h4{
+    color: #696969;
+    font-size: 12px;
+    line-height: 28px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+footer p i{
+    font-size: 12px;
+}
+
+}
+
+@media(min-width:576px ) and (max-width: 768px){
+
+.header_contant .btn {
+    --bs-btn-padding-x: 1.8rem;
+    --bs-btn-padding-y: .8rem;
+    --bs-btn-font-weight: 500;
+}
+.header_contant h1 {
+    color: #7537BE;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 700 !important;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header_contant p {
+    color: #696969;
+    font-size: 15px;
+    line-height: 28px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.self_content h3{
+    margin-top: 10px;
+}
+
+.cart1 span{
+	color: #080808;
+	background: #A5FB27;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 16px;
+	padding: 5px 10px;
+    margin-left: 90px;
+}
+
+}
